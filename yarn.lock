@@ -8768,6 +8768,11 @@ strapi-plugin-users-permissions@3.0.1:
     strapi-utils "3.0.1"
     uuid "^3.1.0"
 
+strapi-provider-email-console@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/strapi-provider-email-console/-/strapi-provider-email-console-0.0.1.tgz#a55a1f15d2ad5b8c7ce25fc39bc957a50ff5e558"
+  integrity sha512-Q/Jjt/zvqflh04z1cN3SQjSYUSzJ2iVy5yvaO+nbCeeY2awXs7r9BGASfdUk6ork2NKsC3bN27hceyOwYJWzTA==
+
 strapi-provider-email-sendmail@3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/strapi-provider-email-sendmail/-/strapi-provider-email-sendmail-3.0.1.tgz#9fa4f06a7dfe321801e220f9520f18aba5454124"
@@ -9823,9 +9828,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
