@@ -6870,9 +6870,9 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0:
   integrity sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
 
 postcss@^7.0.14, postcss@^7.0.30, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.32"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.32.tgz#4310d6ee347053da3433db2be492883d62cec59d"
-  integrity sha512-03eXong5NLnNCD05xscnGKGDZ98CyzoqPSMjOe6SuoQY7Z2hIj0Ld1g/O/UQRuOle2aRtiIRDg9tDcTGAkLfKw==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -8767,6 +8767,11 @@ strapi-plugin-users-permissions@3.0.1:
     strapi-helper-plugin "3.0.0"
     strapi-utils "3.0.1"
     uuid "^3.1.0"
+
+strapi-provider-email-console@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/strapi-provider-email-console/-/strapi-provider-email-console-0.0.1.tgz#a55a1f15d2ad5b8c7ce25fc39bc957a50ff5e558"
+  integrity sha512-Q/Jjt/zvqflh04z1cN3SQjSYUSzJ2iVy5yvaO+nbCeeY2awXs7r9BGASfdUk6ork2NKsC3bN27hceyOwYJWzTA==
 
 strapi-provider-email-sendmail@3.0.1:
   version "3.0.1"
